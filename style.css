@@ -1,0 +1,13 @@
+style.css
+
+/* cores da paleta 
+.principal { color: #343434; }
+.background { color: #bebaba; }
+.destaque { color: #ffaa00; }
+*/
+
+html,
+body {
+    background: #dcd7d7;
+    color: #343434;
+    }
